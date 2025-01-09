@@ -10,7 +10,7 @@
 
 <p align="left">
 
-<a href="https://wa.me/94704210265"><img src="https://img.shields.io/badge/Contact SHANZ-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/94725292890"><img src="https://img.shields.io/badge/Contact SHANZ-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 - 🔭 I’m currently working on **SHANZ-BOT**
 
